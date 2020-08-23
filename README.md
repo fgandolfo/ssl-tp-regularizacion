@@ -3,9 +3,9 @@
 
     git clone https://github.com/fgandolfo/ssl-tp-regularizacion
 ---------
-**Objetivo:** Dada una expresión regular, hallar su AFD mínimo y programar en C un robot que descubra dicha expresión dentro de un texto con centinela "#".
+**Objetivo:** Dada una expresión regular, hallar su AFD mínimo y programar en C un robot que descubra dicha expresión dentro de un texto con centinela '#'.
 
-El programa se encuentra dentro de la carpeta "src", va a ser necesario compilarlo para poder usarlo.
+El programa se encuentra dentro de la carpeta ***src***, va a ser necesario compilarlo para poder usarlo.
 
 ### Como compilarlo?
 Para compilar el programa es necesario, desde la terminal, ubicarse dentro de la carpeta src y copiar este código:
