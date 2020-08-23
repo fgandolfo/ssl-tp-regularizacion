@@ -17,6 +17,7 @@ Con este código ya debería quedar compilado el programa y listo para usar con 
 ## Desarrollo de regex a AFD mínimo
 
 **Expresión regular dada:** [01]\.[0-9]? | [01]*B
+
 **Centinela:** #
 
 Comienzo definiendo cada lenguaje para poder diferenciar las partes de la regex:
